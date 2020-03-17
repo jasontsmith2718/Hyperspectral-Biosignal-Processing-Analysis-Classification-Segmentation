@@ -28,6 +28,8 @@ This GitHub contains relevant script, data and instructions for:
   
   * K-means clustering of phasor-retrieved components for segmentation.
   
+  ![SRS Cell Segmentation via PCA](https://imgur.com/fgU7cON)
+  
 #### _**THIS WORK IS ONGOING**_
 
 --------------------------------------------------------------
