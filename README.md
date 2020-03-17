@@ -17,8 +17,6 @@ This GitHub contains relevant script, data and instructions for:
   * Multi-Layered Perceptron (MLPs)
   
   * Autoencoders (MLP-AEs)
-  
-  * _**THIS WORK IS ONGOING**_
 
 2. [**Stimulated Raman Spectroscopy (SRS) Imaging Analysis**](https://github.com/jasontsmith2718/Hyperspectral-Biosignal-Processing-Analysis-Classification-Segmentation/tree/master/SRS%20Image%20Processing%20%26%20Analysis). (**MATLAB**)
 
@@ -29,6 +27,8 @@ This GitHub contains relevant script, data and instructions for:
   * Hyperspectral phasor analysis.
   
   * K-means clustering of phasor-retrieved components for segmentation.
+  
+#### _**THIS WORK IS ONGOING**_
 
 --------------------------------------------------------------
 
