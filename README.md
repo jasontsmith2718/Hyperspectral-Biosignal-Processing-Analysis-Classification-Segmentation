@@ -20,7 +20,7 @@ This GitHub contains relevant script, data and instructions for:
 
 2. [**Stimulated Raman Spectroscopy (SRS) Imaging Analysis**](https://github.com/jasontsmith2718/Hyperspectral-Biosignal-Processing-Analysis-Classification-Segmentation/tree/master/SRS%20Image%20Processing%20%26%20Analysis). (**MATLAB**)
 
-  * Load in data (either from .mat file or TIF sequence)
+  * Load in data (either from [.mat](https://drive.google.com/open?id=1iK1yR8uKoaBwu6BHpe3jn5ZyZM3ea280) file or [TIF](https://github.com/jasontsmith2718/Hyperspectral-Biosignal-Processing-Analysis-Classification-Segmentation/blob/master/SRS%20Image%20Processing%20%26%20Analysis/tiffStack_MCF10A-SRS.zip) sequence)
   
   * Two-component Principal Component Analysis (PCA)-based unmixing & segmentation.
   
