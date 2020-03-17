@@ -35,6 +35,8 @@ save(fileN,'hsData','maxI','-v7.3');
 %% PCA unmixing
 
 % % %  SRS Image data example:
+% Download this .mat file at 'https://drive.google.com/open?id=1iK1yR8uKoaBwu6BHpe3jn5ZyZM3ea280'
+
 load MCF10A-803-10-20-spec-24mm-25-51-0.1.mat
 % hsData: SRS data (x, y, wavenumber) - (512, 512, 51)
 % maxI: maximum intensity image = max(hsData,[],3);
