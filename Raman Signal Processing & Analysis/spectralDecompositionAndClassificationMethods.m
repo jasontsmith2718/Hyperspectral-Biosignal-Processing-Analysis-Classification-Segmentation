@@ -2,7 +2,7 @@
 %  This script is intended to explain how to use a few MATLAB functions for
 %  background-subtraction, normalization and 2-class SVM separation via
 %  matrix decomposition.
-%  Jason Smith, RPI, 2020
+%  Jason Smith, RPI, Spring 2020
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 
 % % % % % SECTIONS: % % % % % 
@@ -60,10 +60,8 @@ ylabel('Intensity (photon count)')
 
 %% Polynomial background correction
 % backcor() is a function for background correction, taken from
-% file-exchange (open-source). Don't worry about how backcor() works for
-% now, just know that it fits a polynomial to the 'fluorescence background'
-% and we can subsequently use that fit to get rid of it (native fluorescence noise
-% from tissue can be a big problem). Check out the before and after.
+% file-exchange (open-source). It fits a polynomial to the 'fluorescence background'
+% and we can subsequently use that fit for background-removal. Check out the before and after.
 
 % % Using backcor() with a loop through each spectra in each class.
 for i = 1:b
@@ -223,7 +221,7 @@ loocvclassify(x1, x2);
 % Choosing r = 10 (10 "feature" spectra)
 [W,H]=nnmf(X_rmbg_split_norm,10);
 
-% W is non-square so we must use the Moore–Penrose inverse 'pinv()' to
+% W is non-square so we must use the Mooreâ€“Penrose inverse 'pinv()' to
 % obtain the NMF "loadings" from each spectral sample.
 X_NMF=pinv(W)*X_rmbg_split_norm;
 
