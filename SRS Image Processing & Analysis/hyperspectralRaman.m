@@ -2,7 +2,7 @@
 % This script is intended to give an example of unmixing hyperspectral
 % Raman imaging data and displaying the resulting overlay.
 % 
-% Jason T. Smith (RPI) & Dr. Lingyan Shi (UCSC), Spring 2020
+% Jason T. Smith (RPI) & Dr. Lingyan Shi (UCSD), Spring 2020
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 
 % % % % % SECTIONS: % % % % % 
