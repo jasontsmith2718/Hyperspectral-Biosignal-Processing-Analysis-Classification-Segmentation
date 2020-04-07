@@ -42,6 +42,8 @@ This GitHub contains relevant script, data and instructions for:
 
 --------------------------------------------------------------
 
-### References:
+### References & Related Work:
 
 [1] Wu B, Smith J, Zhang L, Gao X, Alfano RR. ["_Characterization and discrimination of human breast cancer and normal breast tissues using resonance Raman spectroscopy_"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10489/104890X/Characterization-and-discrimination-of-human-breast-cancer-and-normal-breast/10.1117/12.2288094.full?sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&webSyncID=0ce46e9e-6ec7-a49d-ab6a-0cbad059329a&sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&SSO=1). Optical Biopsy XVI: Toward Real-Time Spectroscopic Imaging and Diagnosis 2018 Feb 19 (Vol. 10489, p. 104890X). International Society for Optics and Photonics.
+
+[2] Bendau E, Smith J, Zhang L, Ackerstaff E, Kruchevsky N, Wu B, Koutcher JA, Alfano R, Shi L. ["_Distinguishing Metastatic Triple Negative Breast Cancer from Non‐metastatic Breast Cancer using SHG Imaging and Resonance Raman Spectroscopy_"](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000005). Journal of Biophotonics. 2020 Mar 26.
